@@ -4,7 +4,7 @@
 
 ### 👨‍💻 about me:
 
-I'm a tester. I want to develop and move in the topic of testing, so I will be glad to meet new interesting people. 
+I'm a QA Engineer. I want to develop and move in the topic of testing, so I will be glad to meet new interesting people. 
 
 
 ---
